@@ -29,7 +29,12 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Introdução ao Desafio](https://web.dio.me/lab/completando-o-framework-scrum/learning/57abfa35-6a9c-4456-acae-c81a095ff113)[O Passo a Passo](https://web.dio.me/lab/completando-o-framework-scrum/learning/ef21349a-24d6-4f2c-9936-827108e1731c)[O Desafio](https://web.dio.me/lab/completando-o-framework-scrum/learning/bb032758-b0d0-4092-88cf-7158f47b4b15)[Como Entregar o Desafio e Dicas](https://web.dio.me/lab/completando-o-framework-scrum/learning/01254a16-2a08-44d2-8604-b1897fa95461)[Encerramento](https://web.dio.me/lab/completando-o-framework-scrum/learning/f1c62a1c-8d2a-4195-be81-183909d989ec)[Materiais de apoio](https://web.dio.me/lab/completando-o-framework-scrum/learning/4936fbc0-006d-482f-a074-9e36077dfe25)
+- [Introdução ao Desafio](https://web.dio.me/lab/completando-o-framework-scrum/learning/57abfa35-6a9c-4456-acae-c81a095ff113)
+- [O Passo a Passo](https://web.dio.me/lab/completando-o-framework-scrum/learning/ef21349a-24d6-4f2c-9936-827108e1731c)
+- [O Desafio](https://web.dio.me/lab/completando-o-framework-scrum/learning/bb032758-b0d0-4092-88cf-7158f47b4b15)
+- [Como Entregar o Desafio e Dicas](https://web.dio.me/lab/completando-o-framework-scrum/learning/01254a16-2a08-44d2-8604-b1897fa95461)
+- [Encerramento](https://web.dio.me/lab/completando-o-framework-scrum/learning/f1c62a1c-8d2a-4195-be81-183909d989ec)
+- [Materiais de apoio](https://web.dio.me/lab/completando-o-framework-scrum/learning/4936fbc0-006d-482f-a074-9e36077dfe25)
 
 
 
